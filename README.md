@@ -15,8 +15,8 @@
 yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:</P>
 <p>- Fungsi tambah() untuk menambah data</p>
 <p>- Fungsi tapilkan() untuk menampilkan data</p>
-<p>Fungsi hapus(nama) untuk menghapus data berdasarkan nama</p>
-<p>Fungsi ubah(nama) untuk mengubah data berdasarkan nama</p>
+<p>- Fungsi hapus(nama) untuk menghapus data berdasarkan nama</p>
+<p>- Fungsi ubah(nama) untuk mengubah data berdasarkan nama</p>
 
 
 
