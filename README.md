@@ -18,6 +18,30 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:</P>
 <p>- Fungsi hapus(nama) untuk menghapus data berdasarkan nama</p>
 <p>- Fungsi ubah(nama) untuk mengubah data berdasarkan nama</p>
 
+# <p>- Menambahkan Data</p>
+
+![image](https://github.com/ekarahayu24/pertemuan-11/assets/147680283/8ba2fac1-c477-47cd-b3a6-518ba6822107)
+
+# <p>- Menampilkan Data</p>
+
+![image](https://github.com/ekarahayu24/pertemuan-11/assets/147680283/f8595f1f-d9b3-4e96-bbe3-e77ce3900238)
+
+# <p>- Menghapus Data</p>
+
+![image](https://github.com/ekarahayu24/pertemuan-11/assets/147680283/065cd5b5-ba6e-463b-9c37-04745dfd5832)
+
+# <p>- Mengubah Data</p>
+
+![image](https://github.com/ekarahayu24/pertemuan-11/assets/147680283/903f3739-ea2b-40aa-a3cb-a742138e894a)
+
+# <p>Flowchart</p>
+
+![image](https://github.com/ekarahayu24/pertemuan-11/assets/147680283/00e07f75-380b-45f8-b2bb-2f926f72cbfb)
+
+
+
+
+
 
 
 
